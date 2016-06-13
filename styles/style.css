@@ -32,7 +32,6 @@ body {
 
 .nav-list__item--brand {
   flex: 1;
-
   font-weight: bold;
 }
 
@@ -43,13 +42,11 @@ body {
   justify-content: center;
   height: 100vh;
   text-align: center;
-
   background: url('http://www.developerdev.com/images/placeholders/1920x1200-3.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-
   color: #f1f1f1;
   text-shadow: 1px 1px 2px #2a2a2a;
 }
@@ -58,11 +55,9 @@ body {
   max-width: 60rem;
 }
 
-
 .hero__title {
   font-size: 5rem;
   margin: 2rem 0;
-
   text-transform: uppercase;
 }
 
